@@ -7,8 +7,7 @@
 
 - 🔭 I’m currently working on **[SpringMartX](https://github.com/Parthkarma/SpringMartX)**
 - 🌱 I’m currently learning **Backend | Microservices | Machine Learning**
-- 🤖 Exploring **Data Science & ML** with Python  
-- 💬 Ask me about **Java, Spring Boot, DSA, Python, ML, Web Development**
+- Also built ML projects using Scikit-learn, TensorFlow, and Pandas, such as predictive analytics 
 - 📫 How to reach me **parthkarma895@gmail.com**
 
 ---
