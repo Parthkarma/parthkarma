@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth Karma</h1>
 <h3 align="center">JAVA DEVELOPER | SPRINGMVC | WEB DEV</h3>
 
-![image](https://github.com/user-attachments/assets/1bb6fed6-ff3c-4568-b071-79425b1551ec)
+![image](https://github.com/user-attachments/assets/181a5b22-dfa1-4229-8bbf-150ae53276d2)
+
+
 "
 - 🔭 I’m currently working on [SpringMartX](https://github.com/Parthkarma/SpringMartX)
 
