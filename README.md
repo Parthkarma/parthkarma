@@ -4,8 +4,11 @@
 ![image](https://github.com/user-attachments/assets/181a5b22-dfa1-4229-8bbf-150ae53276d2)
 
 
-"
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parthkarma&show_icons=true&locale=en" alt="parthkarma" /></p>
 - 🔭 I’m currently working on [SpringMartX](https://github.com/Parthkarma/SpringMartX)
+
+
 
 - 🌱 I’m currently learning **Backend | Microservices**
 
@@ -24,4 +27,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthkarma&show_icons=true&locale=en&layout=compact" alt="parthkarma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthkarma&show_icons=true&locale=en" alt="parthkarma" /></p>
