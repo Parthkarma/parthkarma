@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Parth Karma</h1>
-<h3 align="center">JAVA DEVELOPER | SPRING BOOT | BACKEND | MACHINE LEARNING</h3>
+<h3 align="center">JAVA DEVELOPER | SPRING BOOT | BACKEND | </h3>
 
 ![image](https://github.com/user-attachments/assets/181a5b22-dfa1-4229-8bbf-150ae53276d2)
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parthkarma&show_icons=true&locale=en" alt="parthkarma" /></p>
 
 - 🔭 I’m currently working on **[SpringMartX](https://github.com/Parthkarma/SpringMartX)**
-- 🌱 I’m currently learning **Backend | Microservices | Machine Learning**
-- Also built ML projects using Scikit-learn, TensorFlow, and Pandas, such as predictive analytics 
+- 🌱 I’m currently learning **Advanced Java | Microservices |System Design**
+- Also built ML projects using Scikit-learn,TensorFlow,Pandas, such as predictive analytics 
 - 📫 How to reach me **parthkarma895@gmail.com**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
