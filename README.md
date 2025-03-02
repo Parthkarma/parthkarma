@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[SpringMartX](https://github.com/Parthkarma/SpringMartX)**
 - 🌱 I’m currently learning **Advanced Java | Microservices |System Design**
-- Also built ML projects using Scikit-learn,TensorFlow,Pandas, such as predictive analytics 
+- Also built ML projects using Scikit-learn,TensorFlow,Pandas, such as Diamond Price Prediction model 
 - 📫 How to reach me **parthkarma895@gmail.com**
 ---
 
