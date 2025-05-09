@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth Karma</h1>
-<h3 align="center">JAVA DEVELOPER | SPRING BOOT | BACKEND | </h3>
+<h3 align="center"> AIMING FOR JAVA DEVELOPER  ROLE AS A FRESHER  | SPRING BOOT | BACKEND | </h3>
 
 ![image](https://github.com/user-attachments/assets/181a5b22-dfa1-4229-8bbf-150ae53276d2)
 
