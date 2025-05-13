@@ -6,7 +6,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parthkarma&show_icons=true&locale=en" alt="parthkarma" /></p>
 
 - 🔭 I’m currently working on **[JUnit , Kafka ](https://github.com/Parthkarma/SpringMartX)**
-- 🌱 I’m currently learning **Microservices |System Design**
+- Final Year student
 - Also built ML projects using Scikit-learn,TensorFlow,Pandas, such as Diamond Price Prediction model 
 - 📫 How to reach me **parthkarma895@gmail.com**
 ---
