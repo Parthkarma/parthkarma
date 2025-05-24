@@ -4,13 +4,8 @@
 ![image](https://github.com/user-attachments/assets/181a5b22-dfa1-4229-8bbf-150ae53276d2)
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parthkarma&show_icons=true&locale=en" alt="parthkarma" /></p>
-
-- 🔭 I’m currently working on **[JUnit , Kafka ](https://github.com/Parthkarma/SpringMartX)**
 - Final Year student
-- Also built ML projects using Scikit-learn,TensorFlow,Pandas, such as Diamond Price Prediction model 
 - 📫 How to reach me **parthkarma895@gmail.com**
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/parth-karma-612044256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
