@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Parth Karma</h1>
 <h3 align="center"> AIMING FOR JAVA DEVELOPER  ROLE AS A FRESHER  | SPRING BOOT | BACKEND | </h3>
 
-![image](https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)
+![image])
+(https://github.com/user-attachments/assets/181a5b22-dfa1-4229-8bbf-150ae53276d2)
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=parthkarma&show_icons=true&locale=en" alt="parthkarma" /></p>
 - Final Year student
